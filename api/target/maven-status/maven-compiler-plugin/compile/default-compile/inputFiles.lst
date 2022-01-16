@@ -1,0 +1,14 @@
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/SonarApi.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/SonarApiClient.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/SonarApiException.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/utils/JacksonJson.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/Constants.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/SonarApiForm.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/package-info.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/utils/JacksonJsonEnumHelper.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/utils/UrlEncoder.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/utils/MaskingLoggingFilter.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/AbstractApi.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/utils/ISO8601.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/CeApi.java
+/Users/oker/GitHub/sonar-next/sonarqube-api/api/src/main/java/com/github/sonarnext/api/models/CeTask.java
